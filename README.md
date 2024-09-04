@@ -1,7 +1,7 @@
 # Sonoma On Dell Inspiron 15 3567
 
 
-# Specs:
+# Specs
 -	CPU: HexaCore AMD Ryzen 5 4600H
 - iGPU: AMD Radeon(TM) Graphics (512 MB)
 - eGPU: Radeon RX 5300M (3056 MB)
