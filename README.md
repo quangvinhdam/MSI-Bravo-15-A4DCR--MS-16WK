@@ -1,4 +1,4 @@
-# Sonoma On Dell Inspiron 15 3567
+# Sonoma On MSI Bravo 15 A4DC A4DCR MS-16WK (AMD laptop)
 
 
 # Specs
